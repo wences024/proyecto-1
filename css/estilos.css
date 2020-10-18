@@ -1,0 +1,21 @@
+
+
+.logo{
+    width: 100px;
+}
+.active-cyan-4 input[type=text] {
+    border: 1px solid #4dd0e1;
+    box-shadow: 0 0 0 1px #4dd0e1;
+    align-items: center;
+  }
+
+.buscador{
+    padding-top: 10px;
+}
+.estilos{
+    padding-top: 0.5%;
+    height: 100px;
+}
+.navv{
+  text-align: end;
+}
